@@ -1,0 +1,158 @@
+body{
+    background-color: white;
+}
+
+.deco{
+    background-color: wheat;
+    /*margin : marge exterieur (top haut bottom en bas)*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /*padding marg interieur*/
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    /*plice choisi*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*la taille De la police*/
+    font-size: 15px;
+}
+
+
+h1{
+    color: aquamarine;
+}
+
+h2{
+    color: cadetblue;
+}
+h3{
+    color: cyan;
+}
+h4{
+    color: darkblue;
+}
+h5{
+    color: darkorchid;
+}
+
+p{
+    color: royalblue;
+}
+
+li{
+    color: violet;
+}
+
+th{
+    /*apparition des bordure*/
+    border: solid; /*dotted (pointillé), dashed (tirets),solid (solide),double (double),groove (rainurée), ridge (relief),inset (relief intérieuroutset (relief extérieur))*/
+}
+
+td{
+    border:dotted;
+}
+
+.LesTitres{
+    background-color: thistle;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /*padding marg interieur*/
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    /*plice choisi*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*la taille De la police*/
+    font-size: 15px;
+}
+
+.Liste{
+    background-color:wheat ;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /*padding marg interieur*/
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+    /*plice choisi*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*la taille De la police*/
+    font-size: 15px;
+}
+
+
+.tableau{
+    background-color: thistle;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /*padding marg interieur*/
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+    /*plice choisi*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*la taille De la police*/
+    font-size: 15px;
+}
+
+.text{
+    background-color: wheat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /*padding marg interieur*/
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    /*plice choisi*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*la taille De la police*/
+    font-size: 15px;
+}
+.liens{
+    background-color: thistle;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /*padding marg interieur*/
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    /*plice choisi*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*la taille De la police*/
+    font-size: 15px;
+}
+.contact{
+    background-color: wheat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /*padding marg interieur*/
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    /*plice choisi*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*la taille De la police*/
+    font-size: 15px;
+}
